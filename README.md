@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Studied in
+> - 2018.03 ~ Pukyong National University, Department of System Management Engineering, Majoring in Technology Service Engineering
 ## Awards
 > - [2021 Compas predicting to demand of parkingslot](https://compas.lh.or.kr/subj/competition/info?subjNo=SBJ_2107_003#)
 >   - 🏆 LH사장상 수상 [Github](https://github.com/jungsungmoon/parkingslot) 
